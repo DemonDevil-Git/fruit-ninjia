@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Slice: Neon",
+  "description": "A futuristic hand-controlled slicing game powered by MediaPipe and Three.js. Use your index finger to slice emojis and avoid bombs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
